@@ -2,6 +2,8 @@
 
 This curated list contains awesome open-source projects with a focus primarily on disciplines related to Atmospheric science. If you like to add or update projects, feel free to open an issue, submit a pull request, or directly edit the readme.md. Contributions are very welcome!
 
+[**Click this**](tutorial.md) for links of useful python tutorial videos.
+
 
 # Basic python
 
