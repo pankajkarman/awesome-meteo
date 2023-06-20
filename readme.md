@@ -89,6 +89,7 @@ This curated list contains awesome open-source projects with a focus primarily o
 - [WaveBreaking](https://github.com/skaderli/WaveBreaking): Detect, classify, and track Rossby Wave Breaking (RWB) in weather and climate data.
 - [climateforcing](https://github.com/chrisroadmap/climateforcing): Tools for analysis of climate model data
 - [Atlite](https://github.com/PyPSA/atlite): A Lightweight Python Package for **Calculating Renewable Power Potentials** and Time Series
+- [**Access Cmip6**](https://github.com/TaufiqHassan/acccmip6): Python package for accessing and downloading CMIP6 database
 
 # Parallel computing
 - [dask](https://github.com/dask/dask): Parallel computing with task scheduling
