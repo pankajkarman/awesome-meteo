@@ -2,12 +2,19 @@
 
 ## Tutorial Videos
 - [Socratica python](https://www.youtube.com/watch?v=bY6m6_IIN94&list=RDQMi-J9AUmPup4&start_radio=1): My favorite youtube playlist for learning basic python
+- [Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+- [Python Tutorial: Iterators and Iterables](https://www.youtube.com/watch?v=jTYiNjvnHZY)
+- [Object Oriented programming in python](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [Parallelize Python Tasks with Joblib](https://www.youtube.com/watch?v=Dm4up8_zJdo)
 - [metpy](https://www.youtube.com/watch?v=-fOfyHYpKck&list=PLQut5OXpV-0ir4IdllSt1iEZKTwFBa7kO): As the name suggests, a very useful youtube playlist for learning working with meteorological datasets
 - [NumPy Tutorial (2022): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=DcfYgePyedM)
 - [Pandas Tutorial : Pandas Full Course](https://www.youtube.com/watch?v=PcvsOaixUh8)
 - [Matplotlib Tutorial](https://www.youtube.com/watch?v=9GvnrQv138s&list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR)
 - [SciPy Tutorial (2022): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU)
 - [Xarray Tutorial | xarray fundamentals](https://www.youtube.com/watch?v=a339Q5F48UQ): One of the developers of xarray explains the xarray fundamentals in depth.
+- [Parallel and Distributed Computing in Python with Dask](https://www.youtube.com/watch?v=EybGGLbLipI)
+- [Dask on HPC Introduction](https://www.youtube.com/watch?v=FXsgmwpRExM)
+- [Dask in HPC | Dask Workshop | Dask Summit 2021](https://www.youtube.com/watch?v=WOCgWepvqFk)
 - [Seaborn Tutorial](https://www.youtube.com/watch?v=6GUZXDef2U0)
 - [Introduction to statsmodels](https://www.youtube.com/watch?v=2BdfjqyWj3c&list=PLlbbWgBRF8EePgK40-i7aGU2_ky1yujgL)
 - [Spatial Regression: Geographic Data Science with Python](https://www.youtube.com/watch?v=0zi8D7Il18g)
