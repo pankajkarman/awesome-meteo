@@ -2,7 +2,7 @@
 
 This curated list contains awesome open-source projects with a focus primarily on disciplines related to Atmospheric science. If you like to add or update projects, feel free to open an issue, submit a pull request, or directly edit the readme.md. Contributions are very welcome!
 
-[**Click this**](tutorial.md) for links of useful python tutorial videos.
+[**Check this**](tutorial.md) for links of useful python tutorial videos.
 
 # Basic python
 - [numpy](https://numpy.org/): A fundamental package for MATLAB like array computing in Python
@@ -13,6 +13,9 @@ This curated list contains awesome open-source projects with a focus primarily o
 - [cupy](https://github.com/cupy/cupy): NumPy & SciPy for GPU
 - [pint-xarray](https://github.com/xarray-contrib/pint-xarray): Handling units in xarray
 - [XrViz](https://github.com/intake/xrviz): an interactive graphical user interface(GUI) for visually browsing Xarrays.
+- [salem](https://github.com/fmaussion/salem): Add geolocalised subsetting, masking, and plotting operations to xarray
+- [modin](https://github.com/modin-project/modin): Scale your pandas workflows by changing one line of code
+- [vaex](https://github.com/vaexio/vaex): A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. 
 
 # Visualization
 - [matplotlib](https://matplotlib.org/stable/index.html): Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
@@ -44,7 +47,7 @@ This curated list contains awesome open-source projects with a focus primarily o
 - [Altair](https://github.com/altair-viz/altair):  Declarative statistical visualization library for Python
 - [Skill Metrics](https://github.com/PeterRochford/SkillMetrics): library for calculating and displaying the skill of model predictions against observations such as **Taylor Diagram**
 - [PyMC3](https://github.com/pymc-devs/pymc): Bayesian Modeling in Python
-- [pomegranate](https://github.com/jmschrei/pomegranate): Fast, flexible and easy to use probabilistic modelling in Python e.g. **computation of partial correlation**
+- [Pingouin](https://github.com/raphaelvallat/pingouin): Pingouin is designed for users who want simple yet exhaustive statistical functions e.g. **computation of partial correlation**
 - [scikits-bootstrap](https://github.com/cgevans/scikits-bootstrap): Python/numpy bootstrap confidence interval estimation.
 - [bayesian_bootstrap](https://github.com/lmc2179/bayesian_bootstrap): Bayesian bootstrapping in Python
 - [tensorflow-probability](https://github.com/tensorflow/probability): Probabilistic reasoning and statistical analysis in Tensorflow
@@ -72,6 +75,7 @@ This curated list contains awesome open-source projects with a focus primarily o
 - [GeoTile](https://github.com/iamtekson/geotile): The python library for tiling the geographic raster data (eg. Tiff etc)
 - [nctoolkit](https://github.com/pmlmodelling/nctoolkit): Fast and easy analysis of netCDF data in Python
 - [sklearn-xarray](https://github.com/phausamann/sklearn-xarray): The package contains wrappers that allow the user to apply scikit-learn estimators to xarray types without losing their labels.
+- [Earthpy](https://github.com/earthlab/earthpy): EarthPy makes it easier to plot and manipulate spatial data in Python.
 
 # Atmospheric science stuffs
 - [metpy](https://github.com/Unidata/MetPy): MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
@@ -94,7 +98,7 @@ This curated list contains awesome open-source projects with a focus primarily o
 
 # Working with models
 - [PyMieScatt](https://github.com/bsumlin/PyMieScatt): A collection of forward and inverse Mie solving routines for Python 3, based on Bohren and Huffman's Mie Theory derivations
-- [PyTMatrix](https://github.com/jleinonen/pytmatrix): https://github.com/atmtools/konrad
+- [PyTMatrix](https://github.com/jleinonen/pytmatrix): Python code for T-matrix scattering calculations
 - [typhon](https://github.com/atmtools/typhon): Tools for atmospheric research
 - [climt](https://github.com/CliMT/climt): a Python based climate modelling toolkit.
 - [lowtran](https://github.com/space-physics/lowtran): LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python 
@@ -118,10 +122,15 @@ This curated list contains awesome open-source projects with a focus primarily o
 # Time Series Data
 Visit [this link](https://github.com/MaxBenChrist/awesome_time_series_in_python) for more comprehensive coverage.
 
+- [sktime](https://github.com/alan-turing-institute/sktime): A unified framework for machine learning with time series.
+- [Statistical Forecast](https://github.com/Nixtla/statsforecast): Lightning fast forecasting with statistical and econometric models
+- [Machine Learning Forecast](https://github.com/Nixtla/mlforecast): Scalable machine learning for time series forecasting
+- [Neural Forecast](https://github.com/Nixtla/neuralforecast): User friendly state-of-the-art neural forecasting models.
 - [darts](https://github.com/unit8co/darts): A python library for user-friendly forecasting and anomaly detection on time series.
 - [DLMMC](https://github.com/justinalsing/dlmmc): Dynamical linear modeling (DLM) regression code for analysis of atmospheric time-series data
 - [traces](https://github.com/datascopeanalytics/traces): A Python library for unevenly-spaced time series analysis
 - [tsai](https://github.com/timeseriesAI/tsai): State-of-the-art Deep Learning library for Time Series and Sequences.
+- [bayesloop](https://github.com/christophmark/bayesloop): Fitting time series models with time-varying parameters and model selection based on Bayesian inference.
 
 # AI/ML
 Visit [this link](https://github.com/ml-tooling/best-of-ml-python) for more comprehensive coverage.
@@ -143,6 +152,7 @@ Visit [this link](https://github.com/ml-tooling/best-of-ml-python) for more comp
 - [scikit-opt](https://github.com/guofei9987/scikit-opt): Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Latex and python code for making neural networks diagrams
 - [x-unet](https://github.com/lucidrains/x-unet): Implementation of a U-net complete with efficient attention
+- [dvc](https://github.com/iterative/dvc): Data Version Control | Git for Data & Models | ML Experiments Management
 
 # ML Model interpretability
 Libraries to visualize, explain, debug, evaluate, and interpret machine learning models. Visit [this link](https://github.com/ml-tooling/best-of-ml-python) for more comprehensive coverage.
@@ -183,9 +193,12 @@ Libraries to visualize, explain, debug, evaluate, and interpret machine learning
 
 # Google Earth Engine
 - [wxee](https://github.com/aazuspan/wxee): A Python interface between Earth Engine and xarray for processing time series data
+- [geemap](https://github.com/gee-community/geemap): A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 
 # Working with Image data
-- [Pillow](https://github.com/python-pillow/Pillow): image processing 
+- [Pillow](https://github.com/python-pillow/Pillow): image processing
+- [scikit-image](https://github.com/scikit-image/scikit-image): Image processing in Python
+- [opencv](https://github.com/opencv/opencv): The most popular Open Source Computer Vision Library in Python
 - [imageio](https://github.com/imageio/imageio): Python library for reading and writing image data
 - [instafilter](https://github.com/thoppe/instafilter): Modifiy images using Instagram-like filters in python
 
