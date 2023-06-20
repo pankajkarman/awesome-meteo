@@ -26,3 +26,4 @@
 - [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M)
 - [Google Earth Engine and geemap Python Tutorials](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 - [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+- [Unit Testing Your Code](https://www.youtube.com/watch?v=FXsgmwpRExM)
