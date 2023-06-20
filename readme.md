@@ -76,6 +76,8 @@ This curated list contains awesome open-source projects with a focus primarily o
 - [nctoolkit](https://github.com/pmlmodelling/nctoolkit): Fast and easy analysis of netCDF data in Python
 - [sklearn-xarray](https://github.com/phausamann/sklearn-xarray): The package contains wrappers that allow the user to apply scikit-learn estimators to xarray types without losing their labels.
 - [Earthpy](https://github.com/earthlab/earthpy): EarthPy makes it easier to plot and manipulate spatial data in Python.
+- [GeoCube](https://github.com/corteva/geocube): Tool to convert geopandas vector data into rasterized xarray data
+- [Satpy](https://github.com/pytroll/satpy): a python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
 
 # Atmospheric science stuffs
 - [metpy](https://github.com/Unidata/MetPy): MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
@@ -90,6 +92,11 @@ This curated list contains awesome open-source projects with a focus primarily o
 - [climateforcing](https://github.com/chrisroadmap/climateforcing): Tools for analysis of climate model data
 - [Atlite](https://github.com/PyPSA/atlite): A Lightweight Python Package for **Calculating Renewable Power Potentials** and Time Series
 - [**Access Cmip6**](https://github.com/TaufiqHassan/acccmip6): Python package for accessing and downloading CMIP6 database
+- [climpred: verification of weather and climate forecasts](https://github.com/pangeo-data/climpred)
+- [Bias Correction](https://github.com/pankajkarman/bias_correction)
+- [xclim](https://github.com/Ouranosinc/xclim): xclim is an operational Python library for climate services, providing numerous climate-related indicator tools with an extensible framework for constructing custom climate indicators, statistical downscaling and bias adjustment of climate model simulations, as well as climate model ensemble analysis tools.
+- [eofs](https://github.com/ajdawson/eofs): EOF analysis in Python
+- [xskillscore](https://github.com/xarray-contrib/xskillscore): Metrics for verifying forecasts
 
 # Parallel computing
 - [dask](https://github.com/dask/dask): Parallel computing with task scheduling
