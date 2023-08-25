@@ -192,6 +192,9 @@ Libraries to visualize, explain, debug, evaluate, and interpret machine learning
 - [Deep Convolutional AutoEncoder](https://github.com/Opio-Cornelius/deep_convolutional_autoencoder): This repository is for convolutional autoencoder algorithms that can be used to bias correct and analyze output from a numerical model. The algorithms used here were tested on the WRF-chem model for bias correcting simulations of Nitorgen dioxide (NO2), Carbon monoxide (CO), Rainfall and Temperature. 
 - [Atmos. Chem. Downscaling CNN](https://github.com/avgeiss/chem_downscaling): Downscaling Atmospheric Chemistry Simulations with Physically Consistent Deep Learning
 - [Techniques for deep learning on satellite and aerial imagery](https://github.com/satellite-image-deep-learning/techniques)
+- [AI-based weather forecasting models](https://github.com/ecmwf-lab/ai-models)
+- [Pangu-Weather](https://github.com/ecmwf-lab/ai-models-panguweather)
+- [FourCastNet](https://github.com/ecmwf-lab/ai-models-fourcastnet)
 - [MetNet](https://github.com/openclimatefix/metnet): PyTorch Implementation of Google Research's [MetNet](https://arxiv.org/abs/2003.12140) for short term weather forecasting
 - [ClimateLearn](https://github.com/aditya-grover/climate-learn): Python library for accessing state-of-the-art climate data and machine learning models in a standardized, straightforward way. This library provides access to multiple datasets, a zoo of baseline approaches, and a suite of metrics and visualizations for large-scale benchmarking of statistical downscaling and temporal forecasting methods.
 - [RainNet](https://github.com/hydrogo/rainnet): a convolutional neural network for radar-based precipitation nowcasting
@@ -209,4 +212,3 @@ Libraries to visualize, explain, debug, evaluate, and interpret machine learning
 - [opencv](https://github.com/opencv/opencv): The most popular Open Source Computer Vision Library in Python
 - [imageio](https://github.com/imageio/imageio): Python library for reading and writing image data
 - [instafilter](https://github.com/thoppe/instafilter): Modifiy images using Instagram-like filters in python
-
